@@ -1,0 +1,11 @@
+Imputation Results
+Mean Squared Error: 0.10123303956266289
+
+R2 Score: 0.9428244364455334
+
+Another dataset results:
+
+Imputation Results
+Mean Squared Error: 0.10210684441808934
+
+R2 Score: 0.9421899234392671

@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Imputation Results</title>
+</head>
+<body>
+    <h1>Imputation Results</h1>
+    <p>Mean Squared Error: {{ metrics['MSE'] }}</p>
+    <p>R2 Score: {{ metrics['R2'] }}</p>
+    <a href="{{ url_for('static', filename='imputed_test.csv') }}">Download Imputed File</a>
+</body>
+</html>
