@@ -18,4 +18,3 @@ A deep learning-powered application for imputing and denoising single-cell RNA-s
 - **Machine Learning**: TensorFlow/Keras, scikit-learn.
 - **Data Handling**: pandas, NumPy.
 
----
